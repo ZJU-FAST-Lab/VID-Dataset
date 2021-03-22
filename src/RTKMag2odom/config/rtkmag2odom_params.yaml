@@ -1,0 +1,17 @@
+RTKTopic:           '/rtk_zhd_parser/GPS'  # '/djiros/gps'  
+MagTopic:           '/rtk_zhd_parser/Yaw'
+OdomTopic:          '/odom'
+
+mode:                0
+# mode 0 is odom_mode, the origin point of the coordinate is the beginnig point,  the origin orientation is the x positive axis.
+# mode 1 is mocap_mode, set to a ground coordinate based on a specific ground 
+# mode 2 is preparing which is used to get the yaw north and origin_ground and yaw ground.
+
+yaw_north:          0         
+# for mode 1
+origin_ground:      [120.116774300, 30.262960839, 36.205790909]  #long  lat alt
+# theta_NED2Ground:   120 #rotation angle from ground frame to NED
+yaw_ground:          -1.9613
+
+#TODO: how to measure accuracy yaw_north&yaw_ground
+#TODO: set a serial points to calcurate the yaw_ground

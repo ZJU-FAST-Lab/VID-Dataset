@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="rstools" type="syncmode" name="syncmode" output="screen">
+        <param name="intercam_sync_mode" type="int" value="4"/>
+    </node>
+</launch>
+
+

@@ -1,0 +1,16 @@
+<launch>
+    <node pkg="djiros" type="djiros_node" name="djiros" output="screen" launch-prefix="">
+        <param name="log_level" type="string" value="info"/>
+        <param name="serial_name" type="string" value="/dev/ttyUSB2"/>
+        <param name="baud_rate" type="int" value="921600"/>
+        <param name="app_id" type="int" value="1095042"/>
+        <param name="enc_key" type="string" value="a1654f03384162fb3b411ad8435f34ff24f00aaaf42ec7ca853caaaa3957061a"/> 
+        <param name="app_version" type="int" value="1"/>
+        <param name="sensor_mode" type="bool" value="false"/>
+<!-- !!!!!!   align_with_fmu    must be set to     false -->
+        <param name="align_with_fmu" type="bool" value="false"/>
+        <param name="hardware_sync_freq" type="int" value="1"/>
+	</node>
+</launch>
+
+

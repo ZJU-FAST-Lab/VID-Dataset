@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+    <node pkg="rtk_zhd_parser" type="rtk_zhd_parser_node" name="rtk_zhd_parser" output="screen">
+    <!-- node parameters -->
+    <rosparam file="$(find rtk_zhd_parser)/config/rtk_zhd_parser_params.yaml" command="load" />
+    </node>
+</launch>
+

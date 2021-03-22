@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/ytk/ws/gitws/uavmotor/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/ytk/ws/gitws/uavmotor/src/beginner_tutorials/include/**",
+                "/home/ytk/ws/gitws/uavmotor/src/fpga_planner/include/**",
+                "/home/ytk/ws/gitws/uavmotor/src/uavmotor/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

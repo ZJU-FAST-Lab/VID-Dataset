@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+    <node pkg="rtkmag2odom" type="rtkmag2odom_node" name="rtkmag2odom" output="screen">
+    <!-- node parameters -->
+    <rosparam file="$(find rtkmag2odom)/config/rtkmag2odom_params.yaml" command="load" />
+    </node>
+</launch>

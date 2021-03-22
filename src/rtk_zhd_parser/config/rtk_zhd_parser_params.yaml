@@ -1,0 +1,10 @@
+#ZHD RTK Parser Params
+RTK_ZHD_GPS_TOPIC:          'rtk_zhd_parser/GPS'
+RTK_ZHD_YAW_TOPIC:          'rtk_zhd_parser/Yaw'
+RTK_ZHD_VELOCITY_TOPIC:     'rtk_zhd_parser/Velocity'
+RTK_ZHD_SATELLITES_TOPIC:   'rtk_zhd_parser/Satellites'
+
+RTK_ZHD_PORT_PATH:          '/dev/ttyUSB0'
+RTK_ZHD_BAUD_RATE:          115200
+RTK_ZHD_IDLE_FREQ:          1.0
+RTK_ZHD_NUM_TO_IDLE:        7

@@ -1,0 +1,10 @@
+<launch>
+    <node pkg="uavmotor" type="m100withm3508" name="m100withm3508" output="screen">
+        <remap from="~/motor_speed" to="/iris/motor_speed"/> 
+        <param name="serial_port" type="string" value="/dev/ttyUSB0"/>
+        <param name="looprate" type="int" value="5000"/>
+        <param name="bandrate" type="int" value="2000000"/>
+    </node>
+</launch>
+
+
