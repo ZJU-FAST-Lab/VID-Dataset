@@ -8,7 +8,7 @@
 
 
 
-arxiv: [pdf](https://www.bilibili.com/video/BV1s54y1a7x2?from=search&seid=8127880784459062756)
+arxiv: [pdf](https://arxiv.org/abs/2103.11152)
 
 Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
 
