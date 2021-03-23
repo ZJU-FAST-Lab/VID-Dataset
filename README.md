@@ -22,6 +22,7 @@ Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
 
 ```
 git clone https://github.com/ZJU-FAST-Lab/VID-Dataset.git
+cd VID-Dataset
 catkin_make
 source devel/setup.bash
 ./tools/convertbag.sh [path of the ROS bag]
