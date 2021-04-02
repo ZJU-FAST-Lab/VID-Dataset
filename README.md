@@ -10,7 +10,7 @@ Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
 
 ## The Flight Platform 
 
-The [VID-Flight-Platform](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform) project contains ***PCB*** design files, ***MCU code***,  ***mechanical assembly*** drawings, ***onboard ROS workspace*** for communication and data collection.
+The [VID-Flight-Platform](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform) project contains [PCB design files](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/tree/main/pcb), [MCU code](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/tree/main/mcu),  [mechanical assembly drawings](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/tree/main/assembly), [onboard ROS workspace](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform/tree/main/onboard_rosws) for communication and data collection.
 
 [![IMAGE ALT TEXT](https://github.com/ZJU-FAST-Lab/VID-Dataset/blob/main/image/drone.png)](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform )
 
