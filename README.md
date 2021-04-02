@@ -10,11 +10,9 @@ Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
 
 ## The Flight Platform 
 
-[VID-Flight-Platform](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform)
+The [VID-Flight-Platform](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform) project contains PCB design files, MCU code, and mechanical assembly drawings.
 
 [![IMAGE ALT TEXT](https://github.com/ZJU-FAST-Lab/VID-Dataset/blob/main/image/drone.png)](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform )
-
-This project contains PCB design files, MCU code, and mechanical assembly drawings.
 
 ## Run the Rosbag with the time-sync tool 
 
