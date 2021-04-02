@@ -8,7 +8,13 @@ Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
 
 [![IMAGE ALT TEXT](https://github.com/ZJU-FAST-Lab/VID-Dataset/blob/main/image/vedio.gif)](http://www.youtube.com/watch?v=K6Cks1QuyqY )
 
+## The Flight Platform 
 
+[VID-Flight-Platform](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform)
+
+[![IMAGE ALT TEXT](https://github.com/ZJU-FAST-Lab/VID-Dataset/blob/main/image/drone.pdf)](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform )
+
+This project contains PCB design files, MCU code, and mechanical assembly drawings.
 
 ## Run the Rosbag with the time-sync tool 
 
@@ -19,8 +25,6 @@ catkin_make
 source devel/setup.bash
 ./tools/convertbag.sh [path of the ROS bag]
 ```
-
-
 
 ## ROS topic
 
