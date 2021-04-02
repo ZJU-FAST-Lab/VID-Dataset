@@ -12,7 +12,7 @@ Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
 
 [VID-Flight-Platform](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform)
 
-[![IMAGE ALT TEXT](https://github.com/ZJU-FAST-Lab/VID-Dataset/blob/main/image/drone.pdf)](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform )
+[![IMAGE ALT TEXT](https://github.com/ZJU-FAST-Lab/VID-Dataset/blob/main/image/drone.png)](https://github.com/ZJU-FAST-Lab/VID-Flight-Platform )
 
 This project contains PCB design files, MCU code, and mechanical assembly drawings.
 
