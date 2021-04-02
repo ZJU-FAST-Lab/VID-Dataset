@@ -2,12 +2,6 @@
 
 
 
-
-
-
-
-
-
 arxiv: [pdf](https://arxiv.org/abs/2103.11152)
 
 Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
@@ -16,9 +10,7 @@ Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
 
 
 
-
-
-# Run the Rosbag with the time-sync tool 
+## Run the Rosbag with the time-sync tool 
 
 ```
 git clone https://github.com/ZJU-FAST-Lab/VID-Dataset.git
@@ -30,7 +22,7 @@ source devel/setup.bash
 
 
 
-# ROS topic
+## ROS topic
 
 |      | Description                               | Raw topic                      | Aligned topic        |
 | ---- | ----------------------------------------- | :----------------------------- | :------------------- |
@@ -54,13 +46,7 @@ source devel/setup.bash
 
 
 
-
-
-
-
-
-
-# Sequences
+## Sequences
 
 
 
