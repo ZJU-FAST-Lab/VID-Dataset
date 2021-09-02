@@ -5,6 +5,8 @@
 arxiv: [pdf](https://arxiv.org/abs/2103.11152)
 
 Youtube: [vedio](https://youtu.be/K6Cks1QuyqY)
+Bilibili: [vedio](https://www.bilibili.com/video/BV1s54y1a7x2?spm_id_from=333.999.0.0)
+
 
 [![IMAGE ALT TEXT](https://github.com/ZJU-FAST-Lab/VID-Dataset/blob/main/image/vedio.gif)](http://www.youtube.com/watch?v=K6Cks1QuyqY )
 
