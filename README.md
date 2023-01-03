@@ -53,6 +53,12 @@ source devel/setup.bash
 
 ## Sequences
 
+The download link in the table is unavailable due to the expiration of the web disk. Please use the link below to download the data set
+
+Download link: [Download](http://zjufast.tpddns.cn:9110/share.cgi?ssid=e977126ca1704d3b8b156164d3b3855b)
+
+Password：vid
+
 
 
 |      | Download link                                                | Environment | Feature        | Trajectory  | Weight <br/>(gram) | Duration<br/>(second) | Imu<br/>Imagery | Dynamical<br/>data | RTK  | Ground<br/>truth | Force<br/>sensor | File name                                                    |
