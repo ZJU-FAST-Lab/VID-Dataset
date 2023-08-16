@@ -55,7 +55,7 @@ source devel/setup.bash
 
 The download link in the table is unavailable due to the expiration of the web disk. Please use the link below to download the data set
 
-Download link: [Download](http://zjufast.tpddns.cn:9110/share.cgi?ssid=e977126ca1704d3b8b156164d3b3855b)
+Download link: [Download](zjufast.tpddns.cn:9110/share.cgi?ssid=eb2494c4a3ea4fb9b942b0ff09dba85f)
 
 Password：vid
 
