@@ -56,8 +56,8 @@ source devel/setup.bash
 The download link in the table is unavailable due to the expiration of the web disk. Please use the link below to download the data set
 
 Download link: 
-[Download Link A](zjufast.tpddns.cn:9110/share.cgi?ssid=eb2494c4a3ea4fb9b942b0ff09dba85f)
-[Download Link B](zjufastnas.myqnapcloud.cn:9110/share.cgi?ssid=eb2494c4a3ea4fb9b942b0ff09dba85f)
+[Download Link A](http://zjufast.tpddns.cn:9110/share.cgi?ssid=eb2494c4a3ea4fb9b942b0ff09dba85f/)
+[Download Link B](http://zjufastnas.myqnapcloud.cn:9110/share.cgi?ssid=eb2494c4a3ea4fb9b942b0ff09dba85f/)
 
 Password：vid
 
