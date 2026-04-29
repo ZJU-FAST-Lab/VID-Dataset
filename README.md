@@ -53,11 +53,9 @@ source devel/setup.bash
 
 ## Sequences
 
-The download link in the table is unavailable due to the expiration of the web disk. Please use the link below to download the data set
+***<u>The download link in the table is unavailable.</u>*** 
 
-Download link: 
-[Download Link A](http://zjufast.tpddns.cn:9110/share.cgi?ssid=eb2494c4a3ea4fb9b942b0ff09dba85f)
-[Download Link B](http://zjufastnas.myqnapcloud.cn:9110/share.cgi?ssid=eb2494c4a3ea4fb9b942b0ff09dba85f)
+Please use this [Download Link](http://zjufast.kmras.com:9110/share.cgi?ssid=92fca52159494e5795016616391289f2) to download the dataset.
 
 Password：vid
 
