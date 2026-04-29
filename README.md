@@ -53,11 +53,11 @@ source devel/setup.bash
 
 ## Sequences
 
-***<u>The download link in the table is unavailable.</u>*** 
+The download ***<u>link in the table is unavailable</u>***. 
 
-Please use this [Download Link](http://zjufast.kmras.com:9110/share.cgi?ssid=92fca52159494e5795016616391289f2) to download the dataset.
+Please use this [Download Link](http://zjufast.kmras.com:9110/share.cgi?ssid=e08267c50fbe4e4bb9cdfe40f9fdb712) to download the dataset.
 
-Password：vid
+Password：viddataset@2021
 
 
 
